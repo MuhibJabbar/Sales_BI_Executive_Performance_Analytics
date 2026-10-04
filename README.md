@@ -1,4 +1,4 @@
-# 📊 AdventureWorks Sales Analytics
+# 📊 Sales BI & Executive Performance Analytics | SQL Server, Power BI, DAX 
 
 ### From SQL Tables to Executive Insights | SQL Server + Power BI
 
